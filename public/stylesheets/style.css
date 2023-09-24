@@ -2,3 +2,23 @@
   height: 20vmin;
   width: 30vmin;
 }
+
+main {
+  width: 60%;
+}
+
+.btn-success {
+  border-radius: 2px;
+  background-color: rgb(7, 0, 0);
+  height: 8vmin;
+  width: 20vmin;
+}
+
+.btn-success:hover {
+  background-color: rgba(7, 0, 0, 0.8);
+}
+
+.book-img {
+  height: 70vmin;
+  width: 70vmin;
+}
