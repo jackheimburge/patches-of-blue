@@ -65,3 +65,18 @@ footer {
   font-size: 1.5vmin;
   margin-left: 15vmin;
 }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center
+}
+
+.contact-div {
+  font-family: 'Playfair Display', serif;
+}
+
+.contact-h3 {
+  font-size: 7.5vmin;
+  margin-bottom: 5vmin;
+}
