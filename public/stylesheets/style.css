@@ -1,3 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 3vmin;
+}
+
 .logo-img {
   height: 20vmin;
   width: 30vmin;
@@ -14,7 +22,7 @@ h1 {
   font-family: 'Playfair Display', serif;
   font-size: 7.5vmin;
   margin-top: 10vmin;
-  margin-bottom: 20vmin;
+  margin-bottom: 15vmin;
 }
 
 .navbar-brand img {
@@ -32,6 +40,14 @@ h1 {
   background-color: rgba(7, 0, 0, 0.8);
 }
 
+.p-div {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 5vmin;
+  font-size: 2.75vmin;
+  padding-left: 7vmin;
+  margin-top: 5vmin;
+}
+
 .book-img {
   height: 70vmin;
   width: 70vmin;
@@ -39,4 +55,9 @@ h1 {
 
 .navbar {
   background-color: rgba(255, 255, 255, 0.95);
+}
+
+footer {
+  font-size: 1.5vmin;
+  margin-left: 15vmin;
 }
