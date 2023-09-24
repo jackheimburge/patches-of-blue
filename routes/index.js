@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/injustice-the-book', function(req, res) {
-  res.render('inJustice', {title: 'inJustice - the book'})
+  res.render('injustice', {title: 'inJustice - the book'})
 })
 
 module.exports = router;
