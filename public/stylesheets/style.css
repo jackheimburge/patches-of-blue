@@ -5,6 +5,20 @@
 
 main {
   width: 60%;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 5vmin;
+  font-size: 2.75vmin;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 7.5vmin;
+  margin-top: 10vmin;
+  margin-bottom: 20vmin;
+}
+
+.navbar-brand img {
+  max-height: 15vmin
 }
 
 .btn-success {
@@ -21,4 +35,8 @@ main {
 .book-img {
   height: 70vmin;
   width: 70vmin;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.95);
 }
