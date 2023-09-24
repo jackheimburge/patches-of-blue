@@ -18,7 +18,7 @@ main {
   font-size: 2.75vmin;
 }
 
-h1 {
+.index-h1 {
   font-family: 'Playfair Display', serif;
   font-size: 7.5vmin;
   margin-top: 10vmin;
@@ -40,7 +40,7 @@ h1 {
   background-color: rgba(7, 0, 0, 0.8);
 }
 
-.p-div {
+p {
   font-family: 'Montserrat', sans-serif;
   line-height: 5vmin;
   font-size: 2.75vmin;
@@ -51,6 +51,10 @@ h1 {
 .book-img {
   height: 70vmin;
   width: 70vmin;
+}
+
+.sub {
+  margin-left: -5vmin;
 }
 
 .navbar {
