@@ -34,6 +34,7 @@ main {
   background-color: rgb(7, 0, 0);
   height: 8vmin;
   width: 20vmin;
+  font-size: 2vmin;
 }
 
 .btn-success:hover {
